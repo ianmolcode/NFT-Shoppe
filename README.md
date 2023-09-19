@@ -5,8 +5,7 @@ This is an NFT-based E-Commerce store that verifies the authenticity of a produc
 
 - [@vansh10patpatia](https://www.github.com/vansh10patpatia)
 - [@prakhar011](https://www.github.com/prakhar011)
-
-
+- - [@prakhar011](https://www.github.com/ianmolcode)
 
 
 ## Run Locally
