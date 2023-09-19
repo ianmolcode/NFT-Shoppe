@@ -78,8 +78,4 @@ To run this project, you will need to add the following environment variables to
 ![App Screenshot](https://res.cloudinary.com/vansh10patpatia/image/upload/v1659299104/gg_y7bwgy.png)
 
 
-## Support
-
-For support, email vansh10patpatia@gmail.com , prakhar.awasthi.cse24@gmail.com .
-
 
